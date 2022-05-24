@@ -1,0 +1,14 @@
+{
+    "name": "mangopay/php-integration",
+    "description": "a class named MangoPay that one can inherit in their PHP based application for integration of Mangopay payment gateway.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sarabjit Singh",
+            "email": "sarabjitsingh23@gmail.com"
+        }
+    ],
+    "require": {
+        "mangopay/php-sdk-v2": "^3.3"
+    }
+}
